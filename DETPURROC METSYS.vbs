@@ -1,5 +1,5 @@
 Dim SYSTEM
-SYSTEM=Msgbox("You'd run a software called DETPURROC METSYS that's a malware, if you doesn't know what it is just close this and restart your system. Warning: Executing will corrupt your system and personal files. Am I not responsible for any damages."),vbYesNo + vbExclamation, ("DETPURROC METSYS by AlexVirusCiberneticos or CyberAlexMalw")
+SYSTEM=Msgbox("You'd run a software called DETPURROC METSYS that's a malware, if you doesn't know what it is just close this and restart your system. Warning: Executing will corrupt your system and personal files. Am I not responsible for any damages."),4+16, ("DETPURROC METSYS by AlexVirusCiberneticos or CyberAlexMalw")
 
 
 Select Case SYSTEM
